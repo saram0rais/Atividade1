@@ -1,0 +1,17 @@
+.centralizar{
+    background-color: white;
+    border: 2px solid rgb(190, 156, 103);
+    width: 750px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.centro{
+    text-align: center;
+}
+
+.menu{
+    width: 750px;
+    margin: 20px auto;
+    padding: 20px;
+}

@@ -1,0 +1,105 @@
+.back{
+    position: absolute;
+    width: 1512px;
+    height: 216px;
+    left: 0px;
+    top: 0px;
+    background: #000346;
+opacity: 0.9;
+}
+
+.img{position: absolute;
+    width: 94px;
+    height: 94px;
+    left: 56px;
+    top: 61px;}
+
+.carta{ 
+    position: absolute;
+width: 144px;
+height: 61px;
+left: 233px;
+top: 92px;
+
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 54px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.receita{
+    position: absolute;
+    width: 277px;
+    height: 52px;
+    left: 377px;
+    top: 92px;
+    
+    font-family: Reem Kufi;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+    
+    color: #FFFFFF;}
+
+.entre{
+        position: absolute;
+width: 191px;
+height: 52px;
+left: 640px;
+top: 92px;
+
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 54px;
+text-align: center;
+
+color: #FFFFFF;
+    }
+
+    .hi{position: absolute;
+        width: 264px;
+        height: 40px;
+        left: 880px;
+        top: 92px;
+        
+        font-family: Reem Kufi;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 36px;
+        line-height: 54px;
+        text-align: center;
+        
+        color: #FFFFFF;}
+
+.diver{
+    position: absolute;
+    width: 268px;
+    height: 61px;
+    left: 1205px;
+    top: 92px;
+    
+    font-family: Reem Kufi;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    }
+    
+    .ba{
+        background-image: url('back.jpg');
+width: 1510px;
+height: 800px;
+top: 0px;
+    }
+   

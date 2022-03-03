@@ -1,0 +1,13 @@
+.centro{
+    width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.centralizar{
+    text-align: center;
+}
+
+.back{
+    background: rgb(210, 236, 207);
+}

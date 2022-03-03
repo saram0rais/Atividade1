@@ -1,0 +1,41 @@
+body{
+    margin:0%
+}
+
+#imagem{
+    width: 900px;
+    height: 700px;
+    background: url("wall.png");
+    background-size: cover ;
+}
+
+.momentos{
+    position: absolute;
+width: 990px;
+height: 422px;
+left: 94px;
+top: 322px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+}
+
+.h{position: absolute;
+    width: 602px;
+    height: 111px;
+    left: 367px;
+    top: 167px;
+    
+    font-family: Paytone One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 67px;
+    text-align: center;
+    
+    color: #FFFFFF;}
